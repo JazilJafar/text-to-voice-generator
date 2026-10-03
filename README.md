@@ -14,10 +14,11 @@ i used JS,HTML and CSS to make this website
 
 You can use this command in git bash to download this files
 
-git clone 
+git clone https://github.com/JazilJafar/text-to-voice-generator.git
 
 This is live url link:
 
+https://jaziljafar.github.io/text-to-voice-generator/
 
 if you like this Repo Please give me star
 
